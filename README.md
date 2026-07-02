@@ -1,5 +1,6 @@
 # CV_Example
 # Hoja de Vida
+![Mi GIF](https://mir-s3-cdn-cf.behance.net/project_modules/source/5eeea355389655.59822ff824b72.gif)
 
 ## Smit Santiago Buitrago Parra 
 **Profesión:** _Futuro Programador
