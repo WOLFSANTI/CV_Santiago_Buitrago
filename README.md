@@ -3,7 +3,7 @@
 ![Mi GIF](https://mir-s3-cdn-cf.behance.net/project_modules/source/5eeea355389655.59822ff824b72.gif)
 
 ## Smit Santiago Buitrago Parra 
-**Profesión:** _Futuro Programador
+**Profesión:** Futuro Programador
 
 ## 📞 Contacto
 - **Teléfono:** +57 3104768609
@@ -25,4 +25,15 @@
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+## 🎯 Objetivos
+- Mejorar mi nivel de inglés para presentaciones
+- Crear mi propia inteligencia artificial
+- Desarrollar un navegador web
 
+## 📂 Proyectos
+
+- [WOLFSANTI](https://github.com/WOLFSANTI/WOLFSANTI)
+
+
+# Como yo siempre me digo a mi mismo:
+>Perder una y otra vez no está mal; mientras no aceptes la derrota, siempre podrás levantarte y dar la cara con valentía.
